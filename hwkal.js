@@ -23,16 +23,16 @@ global.ig = '' // ubah aja
 global.email = 'xddani715@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Dani Maker' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Bot War' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Dani Maker' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'satria' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'satria tzy' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'satria' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281348106274','6281251549899','6281348106274','6281251549899'] // ubah aja pake nomor lu
-global.premium = ['6281348106274','62812515498899'] // ubah aja pake nomor lu
-global.packname = 'Dani Maker' // ubah aja
-global.ownerr = ['Dani Maker'] // ubaha aja
-global.author = 'Dani Maker' //ubah aja
+global.owner = ['855388410032','855388410032','855388410032','855388410032'] // ubah aja pake nomor lu
+global.premium = ['855388410032','855388410032'] // ubah aja pake nomor lu
+global.packname = 'satria' // ubah aja
+global.ownerr = ['satria'] // ubaha aja
+global.author = 'satria' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
